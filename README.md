@@ -8,8 +8,12 @@
 ```
 ####C++
 ```
+>[J電算]
 >cl /EHsc main.cpp A.cpp B.cpp
 >main.exe
+>[K電算]
+>g++ main.cpp A.cpp B.cpp
+>a.exe
 ```
 ####Python
 ```
