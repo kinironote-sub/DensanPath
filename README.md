@@ -6,6 +6,11 @@
 >gcc main.c A.c B.c
 >a.exe
 ```
+####Java
+```
+>javac main.java
+>java main.class
+```
 ####C++
 ```
 >[J電算]
